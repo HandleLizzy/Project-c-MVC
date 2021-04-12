@@ -1,0 +1,228 @@
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\Mobile Affordability Application.dll.config
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\Mobile Affordability Application.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\Mobile Affordability Application.pdb
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\csc.exe
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\csc.exe.config
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\csc.rsp
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\csi.exe
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\csi.exe.config
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\csi.rsp
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.AppContext.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Console.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.IO.Compression.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Net.Http.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.ValueTuple.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\vbc.exe
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\vbc.exe.config
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\vbc.rsp
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\VBCSCompiler.exe
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\EntityFramework.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\EntityFramework.SqlServer.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\System.Web.Helpers.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\System.Web.Mvc.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\System.Web.Razor.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\System.Web.Webpages.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\System.Web.Webpages.Razor.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\EntityFramework.xml
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\EntityFramework.SqlServer.xml
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\System.Web.Razor.xml
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\System.Web.Webpages.xml
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\System.Web.Webpages.Razor.xml
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\System.Web.Helpers.xml
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\System.Web.Mvc.xml
+C:\Users\lizzy\Music\Mobile Affordability Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lizzy\Music\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.csprojAssemblyReference.cache
+C:\Users\lizzy\Music\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.csproj.CoreCompileInputs.cache
+C:\Users\lizzy\Music\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.csproj.CopyComplete
+C:\Users\lizzy\Music\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.dll
+C:\Users\lizzy\Music\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.pdb
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\Mobile Affordability Application.dll.config
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\Mobile Affordability Application.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\Mobile Affordability Application.pdb
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\csc.exe
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\csc.exe.config
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\csc.rsp
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\csi.exe
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\csi.exe.config
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\csi.rsp
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.AppContext.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Console.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.IO.Compression.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Net.Http.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.ValueTuple.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\vbc.exe
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\vbc.exe.config
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\vbc.rsp
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\VBCSCompiler.exe
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\EntityFramework.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\EntityFramework.SqlServer.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Helpers.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Mvc.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Razor.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Webpages.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Webpages.Razor.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\EntityFramework.xml
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\EntityFramework.SqlServer.xml
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Razor.xml
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Webpages.xml
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Webpages.Razor.xml
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Helpers.xml
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Mvc.xml
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.csprojAssemblyReference.cache
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.csproj.CoreCompileInputs.cache
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.csproj.CopyComplete
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.dll
+C:\Users\lizzy\Documents\Mobile Affordability Application_Liz\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.pdb
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\Mobile Affordability Application.dll.config
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\Mobile Affordability Application.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\Mobile Affordability Application.pdb
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\csc.exe
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\csc.exe.config
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\csc.rsp
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\csi.exe
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\csi.exe.config
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\csi.rsp
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.AppContext.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Console.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.IO.Compression.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Net.Http.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.ValueTuple.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\vbc.exe
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\vbc.exe.config
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\vbc.rsp
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\VBCSCompiler.exe
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\EntityFramework.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\EntityFramework.SqlServer.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Helpers.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Mvc.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Razor.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Webpages.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Webpages.Razor.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\EntityFramework.xml
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\EntityFramework.SqlServer.xml
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Razor.xml
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Webpages.xml
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Webpages.Razor.xml
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Helpers.xml
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\System.Web.Mvc.xml
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.csprojAssemblyReference.cache
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.csproj.CoreCompileInputs.cache
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.csproj.CopyComplete
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.dll
+C:\Users\lizzy\Downloads\Mobile Affordability Application_Liz\Mobile Affordability Application\obj\Debug\Mobile Affordability Application.pdb

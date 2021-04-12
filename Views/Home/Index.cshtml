@@ -1,0 +1,355 @@
+﻿
+
+@model Mobile_Affordability_Application.Models.Mobile
+
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+    if (Session["userID"] == null)
+    {
+        Response.Redirect("~/Login/Index");
+    }
+}
+
+<script src="~/Scripts/jquery-3.5.1.js"></script>
+<script src="~/Scripts/jquery-3.5.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+
+
+<style>
+    fieldset {
+        border: 1px solid #ddd !important;
+        margin: 0;
+        min-width: 0;
+        padding: 10px;
+        position: relative;
+        border-radius: 4px;
+        background-color: lightgreen;
+        padding-left: 10px !important;
+    }
+
+    legend {
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom: 0px;
+        width: 35%;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px 5px;
+        background-color: darkseagreen;
+    }
+</style>
+
+<fieldset>
+    <legend>
+        Mobile
+    </legend>
+    <div class="col-md-4">
+        <div class="form-group">
+            Mobile Brand:
+            <div class="col-md-4">
+
+                @Html.DropDownListFor(model => model.MobileBrand,
+                  new SelectList(Model.MobileCollection, "MobileBrand", "MobileBrand"), "Select")
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="form-group">
+            Mobile Type:
+
+            <div class="col-md-4">
+
+                @Html.DropDownListFor(model => model.MobileType,
+                 new SelectList(Model.MobileCollection, dataValueField: "MobileType", dataTextField: "MobileType"), "Select")
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-sm-3control-label">Mobile Price:</label>
+        <div class="col-sm-9">
+            @Html.DropDownListFor(model => model.MobileType, ViewBag.Mobiles as SelectList, "Select Type", new { @onChange = "SelectedPrice(this)" })
+            <input type="text" , id="txt" readonly="readonly" />
+
+        </div>
+    </div>
+
+</fieldset>
+
+<fieldset>
+    <legend>
+        Income
+    </legend>
+    <div class="container">
+        <div class="rows">
+
+            <div class="col-md-4">
+                <div class="form-group">
+
+
+                    <div class="col-md-10">
+                        Salary:
+                        <input type="text" id="txtSalary" name="Salary" class=" form-control" />
+
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-md-4">
+                <div class="form-group">
+
+
+                    <div class="col-md-10">
+                        Other Income:
+                        <input type="text" id="txtOtherIncome" name="OtherIncome" class=" form-control" />
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="form-group">
+
+
+
+                    <div class="col-md-4">
+                        <button onclick="calcGross()">Gross Salary</button>
+                        <label id="Gross"></label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</fieldset>
+
+
+
+<fieldset>
+    <legend>
+        Expenses
+    </legend>
+    <div class="container">
+        <div class="rows">
+
+            <div class="col-md-6">
+                <div class="form-group">
+
+
+                    <div class="col-md-10">
+                        Fixed Expenses:
+                        <input type="text" id="txtFixed" name="Fixed" class=" form-control" />
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="form-group">
+
+
+            <div class="col-md-10">
+                Variables:
+                <input type="text" id="txtVariables" name="Variables" class=" form-control" />
+
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="form-group">
+
+
+
+            <div class="col-md-10">
+                <button onclick="calcExp()">View Expenditure</button>
+                <label id="expenditure"></label>
+
+            </div>
+        </div>
+    </div>
+</fieldset>
+<fieldset>
+    <legend>
+        Upload Proof
+    </legend>
+    <script src="~/Scripts/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript">
+
+    $(document).ready(function () {
+        if('@ViewBag.Message' == 'File Uploaded Successfully')
+        {
+            alert('File Uploaded Successfully');
+        }
+        if ('@ViewBag.Message' == 'File is already exists') {
+            alert('File is already exists');
+        }
+        $('#uloadTable td img.link').live('click', function () {
+            var filename = $(this).parent().parent().parent().attr('id');
+            $(this).parent().parent().parent().remove();
+            $.ajax({
+                type: "post",
+                url: "/FileUpload/RemoveUploadFile?fileName=" + filename,
+                datatype: "json",
+                traditional: true,
+                success: function (data) {
+                    alert('File Deleted');
+                    if (data == 0) {
+                        $('#uloadTable').remove();
+                    }
+                }
+            });
+        });
+    });
+    </script>
+
+
+
+    @using (@Html.BeginForm("Downloads", "lizzy", FormMethod.Post, new { @id = "form1", @enctype = "multipart/form-data" }))
+    {
+        <table>
+            <tr>
+                <td>
+                    <input type="file" name="file_Uploader" />
+                </td>
+                <td>
+                    <input type="submit" id="btn_Upload" value="Upload" />
+                </td>
+            </tr>
+        </table>
+        if (Session["Upload"] != null)
+        {
+            <div class="upload">
+                <div style="width: 500px;">
+                    <table id="uloadTable" border="1">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in (List<Mobile_Affordability_Application.Models.Mobile>)Session["Upload"])
+                            {
+                                <tr id="@item.FileName">
+                                    <td>@item.FileName</td>
+                                    <td style="text-align: center">
+                                        <a class="viewc" href="@Url.Action("OpenFile", "FileUpload", new { @fileName = item.FileName })">
+                                            <img width="16" height="16" border="0" src="~/Images/view.png" class="viewc">
+                                        </a>
+                                        <a class="viewc" href="">
+                                            <img width="16" height="16" border="0" src="~/Images/Delete.png" class="link">
+                                        </a>
+                                    </td>
+                                </tr>
+
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        }
+    }
+</fieldset>
+<fieldset>
+    <legend>
+        Do you qualify:
+    </legend>
+    <div class="container">
+        <div class="rows">
+
+            <select class="form-control" id="StudentGender" name="StudentGender">
+                <option>Payment Type</option>
+                <option>Contract</option>
+                <option>Fixed</option>
+            </select>
+
+        </div>
+    </div>
+
+    
+    
+    
+    <div class="col-md-6">
+        <div class="form-group">
+             <div class="col-md-10">
+                <button onclick="calcAffordability()">Check Affordability</button>
+                <label id="results"></label>
+
+            </div>
+        </div>
+    </div>
+</fieldset>
+
+
+<script src="~/Scripts/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+
+    function calcGross() {
+
+        var first = document.getElementById("txtSalary").value;
+        var second = document.getElementById("txtOtherIncome").value;
+        var added = parseFloat(first) + parseFloat(second);
+
+        if (!isNaN(added)) {
+            document.getElementById("Gross").innerHTML = "R" + added;
+        }
+    }
+
+    function calcExp() {
+
+        var first1 = document.getElementById("txtFixed").value;
+        var second1 = document.getElementById("txtVariables").value;
+        var total = parseFloat(first1) + parseFloat(second1);
+
+        if (!isNaN(total)) {
+            document.getElementById("expenditure").innerHTML = "R" + total;
+        }
+    }
+
+    function calcAffordability() {
+
+        var first = document.getElementById("txtSalary").value;
+        var second = document.getElementById("txtOtherIncome").value;
+        var added = parseFloat(first) + parseFloat(second);
+
+        var first1 = document.getElementById("txtFixed").value;
+        var second1 = document.getElementById("txtVariables").value;
+        var third1 = document.getElementById("txt").value;
+        var total = parseFloat(first1) + parseFloat(second1) + parseFloat(third1);
+
+
+        if (parseFloat(added) > parseFloat(total)) {
+            document.getElementById("results").innerHTML = "Congratulations you qualify!!";
+        }
+        else {
+            document.getElementById("results").innerHTML = "Unfortunately you do not qualify";
+        }
+
+    }
+
+</script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+    function SelectedPrice(ddlitem) {
+        var selvalue = ddlitem.value;
+        var seltext = ddlitem.options[ddlitem.selectedIndex].innerHTML;
+        $('#txt').val(seltext);
+    }
+</script>
+
+
+
